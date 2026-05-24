@@ -15,6 +15,12 @@ run/main_scene="uid://cjt6lie5cqapi"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://assets/icon.svg"
 
+[autoload]
+
+SpriteGen="*uid://vtjj2vcuvtlo"
+GameManager="*uid://b166oumnj7piu"
+SceneManager="*uid://058jrsoe35wr"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
